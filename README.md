@@ -1,4 +1,4 @@
-# Utanglify
+# Dtanglify
 A web debt personal tracker
 
 ## ✅ Features
